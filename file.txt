@@ -12,3 +12,5 @@ Using var in c# is disgusting behavior
 kcashfsf
 Commit to me now
 ilovecookies
+
+git pull
