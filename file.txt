@@ -12,7 +12,11 @@ Using var in c# is disgusting behavior
 kcashfsf
 Commit to me now
 ilovecookies
+<<<<<<< Updated upstream
 
 git pull
 
 branch
+=======
+mergebranchnow
+>>>>>>> Stashed changes
