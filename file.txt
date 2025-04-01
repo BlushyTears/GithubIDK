@@ -21,7 +21,3 @@ iamhungry rawr
 ieatcookies
 
 git pull
-
-branch
-sabotage
-Removed some weird ass number
