@@ -19,13 +19,6 @@ I like cookies more
 Using var in c# is disgusting behavior
 >>>>>>>>> Temporary merge branch 2
 
-:DDDDDD
-meow :3c 
-kcashfsf
-Chocolate fudge is the best fudge. Made with normal milk instead of condensed
-Commit to me now
-ilovecookies
-
 <<<<<<<<< Temporary merge branch 1
 git pull
 
