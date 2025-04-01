@@ -5,12 +5,12 @@ I might know what I am doing???
 Curly brackets belong on the same line as the function
 
 I like cookies
-<<<<<<<<< Temporary merge branch 1
+
 Using var in c# is disgusting behavior <------ (This is true information)
-=========
+
 I like cookies more
 Using var in c# is disgusting behavior
->>>>>>>>> Temporary merge branch 2
+
 
 :DDDDDD
 meow :3c 
@@ -20,7 +20,6 @@ Commit to me now
 iamhungry rawr
 ieatcookies
 
-<<<<<<<<< Temporary merge branch 1
 git pull
 
 branch
