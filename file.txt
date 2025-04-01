@@ -5,7 +5,8 @@ I might know what I am doing???
 Curly brackets belong on the same line as the function
 
 I like cookies
-Using var in c# is disgusting behavior <------ (This is false information)
+I like cookies more
+Using var in c# is disgusting behavior
 
 :DDDDDD
 meow :3c 
@@ -14,10 +15,7 @@ Chocolate fudge is the best fudge. Made with normal milk instead of condensed
 Commit to me now
 ilovecookies
 
-Ja miluju minecraft
-123123
+git pull
 
-mergebranch
-asasd
-
-asd
+branch
+sabotage
