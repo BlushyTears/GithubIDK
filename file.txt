@@ -13,10 +13,14 @@ kcashfsf
 Commit to me now
 ilovecookies
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 git pull
 
 branch
+=======
+mergebranchnow
+>>>>>>> Stashed changes
 =======
 mergebranchnow
 >>>>>>> Stashed changes
