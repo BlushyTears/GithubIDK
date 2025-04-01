@@ -1,27 +1,5 @@
 500ml milk
 2 tablespoons of cocoa powder
 2-4 tablespoons butter
-250ml sugar
-5ml vanilla essence
-half a bar of dark chocolate
-idk
-James is the best
-using "var myBool = true" is correct coding
-Adam might be the best, idk
-I might know what I am doing??? 
-Curly brackets belong on the same line as the function
 
-I like cookies
-<<<<<<<<< Temporary merge branch 1
-Using var in c# is disgusting behavior <------ (This is true information)
-=========
-I like cookies more
-Using var in c# is disgusting behavior
->>>>>>>>> Temporary merge branch 2
-
-<<<<<<<<< Temporary merge branch 1
-git pull
-
-branch
-sabotage
-Removed some weird ass number
+new best branch
