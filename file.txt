@@ -1,32 +1,9 @@
 Grette is the best
 using "var myBool = true" is correct coding
-Adam might be the best
-I don't know what I am doing, help me, oh lord help me
-Curly brackets belong on the same line as the function
-
-I like cookies
-I like cookies more
-Using var in c# is disgusting behavior
-
-:DDDDDD
-kcashfsf
-Commit to me now
-ilovecookies
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
-git pull
-
-branch
-=======
-mergebranchnow
+adawdas
 >>>>>>> Stashed changes
-=======
+=======wdadw
 mergebranchnow
->>>>>>> Stashed changes
-=======
-mergebranchnow
->>>>>>> Stashed changes
+>>>>>>> Stashed changesadasda
 
 grette is pretty cool
