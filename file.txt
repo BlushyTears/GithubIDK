@@ -13,3 +13,5 @@ git pull
 gretbranch
 
 grette is pretty cool
+
+mergebranch
