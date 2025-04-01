@@ -17,3 +17,7 @@ Ja miluju minecraft
 asd
 wohenxihuanbingqiling
 
+<<<<<<< Updated upstream
+=======
+stash this
+>>>>>>> Stashed changes
