@@ -18,15 +18,6 @@ ilovecookies
 
 git pull
 
-branch
-=======
-mergebranchnow
->>>>>>> Stashed changes
-=======
-mergebranchnow
->>>>>>> Stashed changes
-=======
-mergebranchnow
->>>>>>> Stashed changes
+gretbranch
 
 grette is pretty cool
