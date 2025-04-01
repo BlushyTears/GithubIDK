@@ -1,1 +1,2 @@
 Adam is the best
+using "var myBool = true" is correct coding
