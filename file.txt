@@ -14,6 +14,10 @@ Chocolate fudge is the best fudge. Made with normal milk instead of condensed
 Commit to me now
 ilovecookies
 
+<<<<<<< HEAD
 git pull
 
 branch
+=======
+sabotage
+>>>>>>> 5df91d68e97bf2d95e6338a9959d0fc3ece247e3
