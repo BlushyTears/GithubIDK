@@ -1,10 +1,11 @@
-Adam is the best
+Grette is the best
 using "var myBool = true" is correct coding
 Adam might be the best, idk
 I might know what I am doing??? 
 Curly brackets belong on the same line as the function
 
-Using var in c# is disgusting behavior
+I like cookies
+Using var in c# is disgusting behavior <------ (This is false information)
 
 :DDDDDD
 meow :3c 
