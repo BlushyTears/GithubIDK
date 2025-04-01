@@ -8,11 +8,6 @@ I like cookies
 I like cookies more
 Using var in c# is disgusting behavior
 
-:DDDDDD
-kcashfsf
-Commit to me now
-ilovecookies
-
 git pull
 
 gretbranch
