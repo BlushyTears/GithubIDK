@@ -1,3 +1,5 @@
+Adam is the best
+using "var myBool = true" is correct coding
 Adam might be the best
 Curly brackets belong on the same line as the function
 
